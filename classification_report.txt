@@ -1,0 +1,10 @@
+Best model: Logistic Regression
+
+              precision    recall  f1-score   support
+
+    No Churn       0.88      0.67      0.76      1042
+       Churn       0.44      0.74      0.56       367
+
+    accuracy                           0.69      1409
+   macro avg       0.66      0.71      0.66      1409
+weighted avg       0.77      0.69      0.71      1409
